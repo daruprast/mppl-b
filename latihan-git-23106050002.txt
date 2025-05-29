@@ -1,0 +1,23 @@
+Nama : Bayu Wicaksono
+NIM  : 23106050002
+
+1. Kelebihan metode Agile dibandingkan metode pengembangan perangkat lunak lainnya:
+   - Lebih fleksibel terhadap perubahan kebutuhan.
+   - Kolaborasi tim dan komunikasi dengan klien lebih intensif.
+   - Proses pengembangan lebih iteratif dan adaptif.
+   - Hasil dapat dievaluasi secara berkala sehingga kualitas produk lebih terjaga.
+
+2. Tugas seorang scrum master dalam framework scrum:
+   - Memfasilitasi proses scrum dan memastikan tim mengikuti prinsip scrum.
+   - Menghilangkan hambatan (impediments) yang mengganggu tim.
+   - Membantu tim dan organisasi memahami serta menerapkan scrum dengan benar.
+   - Menjadi penghubung antara tim scrum dan pihak eksternal.
+
+3. Yang dimaksud dengan WIP (Work In Progress) di dalam Kanban:
+   - WIP adalah jumlah pekerjaan atau tugas yang sedang dikerjakan pada satu waktu.
+   - Batasan WIP digunakan untuk menghindari penumpukan pekerjaan dan meningkatkan efisiensi proses.
+
+4. Jenis version control system yang digunakan dalam pengembangan perangkat lunak:
+   - Centralized Version Control System (CVCS): Sistem kontrol versi terpusat, seperti Subversion (SVN), di mana semua data tersimpan di satu server pusat.
+   - Distributed Version Control System (DVCS): Sistem kontrol versi terdistribusi, seperti Git dan Mercurial, di mana setiap pengembang memiliki 
+     salinan lengkap repository sehingga lebih aman dan fleksibel.
