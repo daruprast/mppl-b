@@ -9,7 +9,7 @@ Repositori ini digunakan untuk latihan Git mata kuliah Metode Pengembangan Peran
 3. **Buat branch baru** untuk perubahan Anda:  
    `git checkout -b branch-anda` (-- nama branch = NIM)
 4. **Lakukan perubahan**, lalu `commit`
-   - Buat file baru dengan nama latihan-git-NIM
+   - Buat file baru dengan nama latihan-git-NIM.txt
    - Tuliskan nama, NIM, dan jawaban pertanyaan di bawah 
    - Add file ge staging area `git add nama-file`
 6. **Push ke fork Anda**
