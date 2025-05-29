@@ -1,0 +1,21 @@
+Nama : Alfian Nur Firmansyah
+NIM  : 23106050083
+
+1. Kelebihan metode Agile dibandingkan metode lainnya antara lain :
+- Fleksibilitas dan adaptabilitas yang tinggi yang dimana akan memungkinkan tim merespon perubahan kebutuhan dengan cepat
+- Dengan adanya iterasi dan pengujian berkelanjutan, masalah dapat dideteksi dan diperbaiki lebih awal
+- Klien dapat terlibat secara aktif dalam proses pengembangan, sehingga produk akan sesuai dengan permintaan mereka
+- Masalah dan risiko diidentifikasi dan ditangani dalam setiap iterasi, mengurangi kemungkinan kegagalan proyek secara keseluruhan
+
+2. Tugas seorang scrum master dalam framework scrum adalah : 
+- Memastikan tim memahami dan menerapkan scrum: Scrum Master bertanggung jawab untuk mempromosikan dan mendukung Scrum sesuai dengan panduan Scrum Guide
+- Memastikan bahwa semua event Scrum (Sprint Planning, Daily Scrum, Sprint Review, Sprint Retrospective) berjalan efektif, produktif, dan sesuai dengan batas waktu yang ditentukan
+- Melatih tim dalam self-management dan cross-functionality: Membantu tim menjadi lebih mandiri dalam mengelola pekerjaannya dan memiliki kemampuan lintas fungsi untuk menyelesaikan pekerjaan
+- Membantu product owner: Membantu product owner dalam teknik-teknik untuk definisi product goal yang efektif dan manajemen product backlog. Memastikan product owner mengetahui cara mengatur product backlog untuk memaksimalkan nilai
+- Menjaga tim agar tetap fokus pada pekerjaan yang telah direncanakan dalam Sprint
+
+3. WIP dalam kanban merujuk pada jumlah maksimum item pekerjaan yang dapat berada dalam satu tahap atau kolom tertentu pada kanban board secara bersamaan dengan tujuan untuk mencegah bottleneck, meningkatkan alur kerja, mengurangi waktu siklus, dll
+
+4. Dua jenis utama VCS antara lain : 
+- Centralized Version Control System : Dalam CVCS, terdapat satu server pusat yang menyimpan semua versi file. Pengembang melakukan checkout file dari server pusat untuk berkerja, dan kemudian melakukan commit perubahan kembali ke server tersebut
+- Distributed Version Control System : Dalam DVCS, setiap pengembang memiliki salinan lengkap (clone) dari seluruh repositori, termasuk riwayat perubahan. Pengembang dapat melakukan commit, membuat branch, dan melakukan merge secara lokal tanpa perlu koneksi ke server pusat
