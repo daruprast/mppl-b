@@ -21,3 +21,5 @@ NIM  : 23106050002
    - Centralized Version Control System (CVCS): Sistem kontrol versi terpusat, seperti Subversion (SVN), di mana semua data tersimpan di satu server pusat.
    - Distributed Version Control System (DVCS): Sistem kontrol versi terdistribusi, seperti Git dan Mercurial, di mana setiap pengembang memiliki 
      salinan lengkap repository sehingga lebih aman dan fleksibel.
+
+     MANTAP GITHUB BERSAMA PAK DARU.
