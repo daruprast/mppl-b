@@ -1,0 +1,23 @@
+Nama : Muhammad Rayyan Afiq El Vann
+NIM : 23106050063
+
+1. Sebutkan kelebihan metode Agile dibandingkan dengan metode pengembangan perangkat lunak lainnya.
+    - Responsif terhadap perubahan kebutuhan secara fleksibel sampai di fase akhir pengembangan
+    - Kolaboratif yang mendorong komunikasi antara tim dan klien atau stakeholder sehingga produk dapat dibuat sesuai harapan
+    - Pengembangan dilakukan dalam siklus pendek atau sprint yang memungkinkan fitur dapat diuji dan dikembangkan bertahap
+    - Pengiriman lebih cepat karena menggunakan pendekatan iteratif sehingga fitur bisa segera dirilis walaupun sistem belum 100% selesai
+    - kesalahan dan error bisa cepat ditemukan dan diperbaiki karena testing berkelanjutan dan review berkala
+2. Apa tugas seorang scrum master dalam framework scrum
+    a. Fasilitator tim, membantu tim memahami dan menjalankan praktik scrum dengan benar
+    b. Membantu mengatasi masalah yang menghambat produktivitas tim
+    c. Menjaga agar tim tetap fokus pada sprint dan tidak terganggu oleh hal di luar prioritas
+    d. Membina komunikasi yang efektif antara product owner dan tim
+    e. Membantu tim tumbuh menjadi tim yang mandiri dan berdaya tinggi
+3. Apa yang dimaksud dengan WIP atau Work In Progress di dalam kanban
+    - WIP adalah jumlah pekerjaan yang sedang dilakukan oleh tim dalam satu waktu.
+    - WIP perlu dibatasi agar tidak terlalu banyak pekerjaan berjalan sekaligus yang dapat menyebabkan overload dan menurunkan efisiensi
+    - Tujuannya adalah meningkatkan fokus, mempercepat penyelesaian tugas, serta menjaga alur kerja tetap lancar
+4. Sebutkan dan jelaskan jenis version control system yang digunakan dalam pengembangan perangkat lunak
+    - Centralized Version Control System : Sistem terkontrol versi terpusat seperti SVN atau CVS, dimana semua versi kode tersimpan dalam satu server pusat dan pengembang harus terhubung ke server untuk bekerja
+    - Distributed Version Control System : Seperti GIT dan Mercurial, setiap pengembang menyimpan salinan lengkap dari seluruh repositori. DVCS lebih fleksible karena memungkinkan pengembangan offline dan lebih aman terhadap kerusakan server pusat. GIT adalah DVCS yang paling sering digunakan saat ini
+    - Local Version Control System :Seperti RCS, Menyimpan versi file secara lokal yang biasanya hanya digunakan oleh satu developer. Cocok untuk proyek pribadi berskala kecil yang jarang digunakan dalam pengembangan tim
