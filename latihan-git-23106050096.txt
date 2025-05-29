@@ -1,0 +1,31 @@
+Nama : Dama Amisuda
+NIM : 23106050096
+
+(1). Sebutkan kelebihan metode Agile dibandingkan dengan metode pengembangan perangkat lunak lainnya.
+    -Fleksibel terhadap perubahan: Agile memungkinkan perubahan kebutuhan selama proyek berjalan.
+    -Iteratif dan inkremental: Produk dikembangkan dalam siklus pendek (sprint), memungkinkan evaluasi dan perbaikan terus-menerus.
+    -Kolaboratif: Mendorong keterlibatan aktif antara tim pengembang dan pemangku kepentingan.
+    -Peningkatan kualitas: Melalui pengujian berkelanjutan dan umpan balik rutin.
+
+(2). Apa tugas seorang scrum master dalam framework scrum?
+    -Membantu tim Scrum menerapkan prinsip dan praktik Scrum dengan benar
+    -Menghilangkan hambatan (impediments) yang mengganggu proses kerja tim.
+    -Menjadi fasilitator dalam pertemuan Scrum seperti sprint planning, daily scrum, sprint review, dan retrospective.
+    -Melindungi tim dari gangguan eksternal dan memastikan tim tetap fokus pada sprint goal.
+
+(3). Apa yang dimaksud dengan WIP (Work In Progress) di dalam Kanban?
+     WIP adalah jumlah pekerjaan yang sedang dikerjakan tetapi belum selesai. Dalam Kanban:
+    -Tujuan utamanya adalah membatasi WIP agar tim tidak kewalahan dan bisa fokus menyelesaikan pekerjaan sebelum mengambil tugas baru.
+    -Manfaatnya: Meningkatkan aliran kerja (workflow), mengurangi waktu tunggu (lead time), dan meningkatkan efisiensi tim.
+
+(4). Sebutkan dan jelaskan jenis version control system yang digunakan dalam pengembangan perangkat lunak.
+    -Centralized VCS (CVCS):
+        -Centralized VCS adalah sistem pengendalian versi di mana seluruh riwayat versi kode tersimpan di satu server pusat. Setiap pengembang terhubung langsung ke server untuk mendapatkan salinan kode dan melakukan commit.
+        -Contoh: Subversion (SVN), CVS.
+        -Kelebihan: Mudah dikontrol secara terpusat.
+        -Kekurangan: Rentan terhadap kehilangan data jika server rusak.
+    -Distributed VCS (DVCS):
+        -Distributed VCS menyimpan salinan lengkap repositori beserta histori versinya di setiap komputer pengembang. Artinya, developer bisa melakukan pekerjaan versi secara lokal tanpa harus selalu terhubung ke server pusat.
+        -Contoh: Git, Mercurial.
+        -Kelebihan: Lebih aman, dapat bekerja secara offline, dan mendukung kolaborasi paralel dengan cabang (branch).
+        -Kekurangan: Awalnya lebih kompleks bagi pemula.
