@@ -1,0 +1,33 @@
+Nama    : Ananda Oktazana Ramadan
+NIM     : 23106050070
+Kelas   : MPPL B
+
+Jawaban:
+1. Sebutkan kelebihan metode Agile dibandingkan dengan metode pengembangan perangkat lunak lainnya.
+   - Agile fokus pada kolaborasi dan komunikasi yang intens antar tim dan stakeholder.
+   - Memudahkan penyesuaian terhadap perubahan kebutuhan selama proses pengembangan.
+   - Produk dikembangkan secara iteratif dan inkremental, sehingga hasil bisa dilihat lebih cepat.
+   - Meningkatkan kepuasan pelanggan karena pelanggan dilibatkan sejak awal hingga akhir.
+   - Lebih fleksibel dibandingkan metode tradisional seperti Waterfall.
+
+2. Apa tugas seorang scrum master dalam framework scrum?
+   - Mengatur dan memastikan proses Scrum berjalan lancar sesuai aturan.
+   - Menjadi fasilitator bagi tim agar bekerja efektif dan produktif.
+   - Menghilangkan hambatan (blocking issues) yang mengganggu kerja tim.
+   - Melindungi tim dari gangguan eksternal.
+   - Bukan atasan tim, tapi lebih sebagai pelayan dan pembimbing (servant leader).
+
+3. Apa yang dimaksud dengan WIP (Work In Progress) di dalam Kanban?
+   - WIP adalah jumlah maksimal pekerjaan yang boleh sedang dikerjakan oleh tim atau individu pada satu waktu tertentu.
+   - Tujuannya adalah untuk mencegah multitasking berlebihan, meningkatkan fokus, dan mempercepat alur kerja.
+   - Dengan batasan WIP, tim bisa melihat bottleneck dan memperbaikinya lebih cepat.
+
+4. Sebutkan dan jelaskan jenis version control system yang digunakan dalam pengembangan perangkat lunak.
+   - Ada dua jenis utama version control system:
+     a. **Centralized Version Control System (CVCS)**  
+        Contoh: SVN (Subversion)  
+        Penjelasan: File disimpan di server pusat, developer harus terhubung ke server untuk melakukan commit atau update. Semua riwayat ada di server.
+
+     b. **Distributed Version Control System (DVCS)**  
+        Contoh: Git  
+        Penjelasan: Setiap developer memiliki salinan lengkap repositori (termasuk histori). Ini memungkinkan kerja offline dan lebih aman jika server rusak.
