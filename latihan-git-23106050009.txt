@@ -1,0 +1,24 @@
+Nama: Annisa Iddelia Furkon
+Nim: 23106050009
+
+1. Sebutkan kelebihan metode Agile dibandingkan dengan metode pengembangan perangkat lunak lainnya!
+~ Fleksibilitas Tinggi: Agile sangat adaptif terhadap perubahan kebutuhan proyek.
+~ Kepuasan Klien Lebih Tinggi: Klien terlibat aktif dalam proses pengembangan dan dapat memberikan feedback secara berkala, sehingga produk akhir lebih sesuai kebutuhan mereka.
+~ Fokus pada Kebutuhan Konsumen: Setiap iterasi berfokus pada fitur yang benar-benar dibutuhkan, sehingga hasil pengembangan lebih relevan dan bermanfaat bagi pengguna.
+~ Kolaborasi dan Komunikasi Intensif: Agile menekankan komunikasi dan kolaborasi antar anggota tim, pemangku kepentingan, dan pelanggan, yang meningkatkan transparansi dan pemahaman bersama.
+~ Pengiriman Bertahap dan Terukur: Proyek dibagi menjadi iterasi kecil (sprint), memungkinkan evaluasi dan perbaikan berkelanjutan serta deteksi masalah lebih awal.
+
+2. Apa tugas seorang scrum master dalam framework scrum?
+~ Memberikan coaching dan mentoring kepada anggota tim agar dapat menjalankan tanggung jawabnya sesuai prinsip Scrum
+~ Memfasilitasi diskusi, pengambilan keputusan, dan resolusi konflik di dalam tim.
+~ Meningkatkan efisiensi kerja dan kolaborasi antar anggota tim.
+~ Memastikan semua anggota tim memahami nilai-nilai Scrum dan prinsip Agile yang mendasari Scrum.
+~ Memimpin proses Scrum harian.
+
+3. Apa yang dimaksud dengan WIP (Work In Progress) di dalam Kanban?
+WIP adalah istilah yang digunakan untuk menggambarkan pekerjaan atau item yang sedang dikerjakan namun belum selesai. WIP harus dibatasi dalam setiap tahap proses untuk mengatur jumlah maksimum item yang dapat dikerjakan secara bersamaan. Pembatasan WIP bertujuan untuk mengoptimalkan kapasitas tim, mencegah penumpukan pekerjaan, dan meningkatkan efisiensi alur kerja.
+
+4. Sebutkan dan jelaskan jenis version control system yang digunakan dalam pengembangan perangkat lunak.
+~ Local Version Control Systems: Menyimpan perubahan pada file secara lokal di satu komputer. Cocok untuk penggunaan individu.
+~ Centralized Version Control Systems (CVCS): Menyimpan semua versi file di satu server pusat. Memungkinkan kolaborasi, tetapi rentan jika server pusat bermasalah.
+~ Distributed Version Control Systems (DVCS): Setiap pengguna memiliki salinan lengkap repositori. Mendukung kerja offline dan lebih aman.
