@@ -7,10 +7,14 @@ Repositori ini digunakan untuk latihan Git mata kuliah Metode Pengembangan Peran
 2. **Clone** ke lokal Anda:  
    `git clone https://github.com/username/repo-name.git`
 3. **Buat branch baru** untuk perubahan Anda:  
-   `git checkout -b branch-anda`
+   `git checkout -b branch-anda` (-- nama branch = NIM)
 4. **Lakukan perubahan**, lalu `commit`
-5. **Push ke fork Anda**
-6. **Buat Pull Request (PR)** dari GitHub
+   - Buat file baru dengan nama latihan-git-NIM
+   - Tuliskan nama, NIM, dan jawaban pertanyaan di bawah 
+   - Add file ge staging area `git add nama-file`
+6. **Push ke fork Anda**
+   `git push origin nama-branch
+8. **Buat Pull Request (PR)** dari GitHub
 
 # Tugas
 1.	Sebutkan kelebihan metode Agile dibandingkan dengan metode pengembangan perangkat lunak lainnya.
