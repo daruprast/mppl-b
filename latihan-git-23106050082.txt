@@ -1,0 +1,51 @@
+Nama    :Sulthon Aqthoris Sama'
+NIM     :23106050082 
+
+1.  Kelebihan Metode Agile Dibandingkan dengan Metode Pengembangan Perangkat Lainnya
+    -   Metode Agile dapat merespon cepat terhadap perubahan, jika ada kebutuhan baru atau saran atau masukan dari klien di tengah jalan, para tim Agile dapat menyesuaikan rencana perubahan itu tanpa menganggu keseluruhan proyek secara drastis.
+    -   Metode Agile secara langsung melibatkan klien dalam proses pengembangan, jadi klien dapat melihat perkembangan produk secara berkala dan memberikan tanggapannya. Ini dapat membantu produk akhirnya sesuai dengan harapan dari klien.
+    -   Pengujian dilakukan secara berkelanjutan pada setiap tahap pengembangan, jadi jika ada masalah atau bug dapat terdeteksi lebih awal dan segera di perbaiki.
+
+2.  Tugas Scrum Master
+    -   Mengidentifikasi dan membantu mengatasi masalah yang dapat menghambat progres tim. (Dapat berupa masalah teknis, sumber daya, atau konflik internal)
+    -   Memimpin dan memfasilitasi pertemuan atau rapat agar dapat berjalan mulus
+    -   Menjaga tim dari gangguan atau penambahan beban kerja agar tim tetap fokus pada tujuan sprint.
+    -   Sebagai penghubung antara tim pengembang dengan pihak lain.  
+
+3.  WIP pada Kanban
+    WIP adalah batasan berapa banyak item pekerjaan yang boleh ada di setiap kolom atau langkah dalam papan Kanban.
+    -   Dengan adanya WIP, tim bisa mengindari penumpukan pekerjaan pada satu tahap tertentu sehingga proses pengembangan tetap lancar.
+    -   Ketika jumlah pekerjaannya terbatas, tim bisa lebih fokus menyelesaikan tugas yang ada sebelum memulai tugas baru.
+    -   Selain itu WIP membantu menyoroti proses mana yang mungkin dapat menjadi hambatan dalam pengembangan, sehingga segera bisa diatasai.
+
+4. Version Control System dalam Pengembangan
+    (a) Lokal
+        -   Menyimpan versi file di komputer sendiri.
+        -   Mudah, tidak membutuhkan akses internet.
+        -   Setup tidak rumit
+        -   Data sulit dicari dan gampang hilang.
+        -   Susah jika digunakan bekerja sebagai tim.
+    (b) Terpusat (Centralized VCS)
+        -   File disimpan di satu server pusat. Pengembang mengambil salinan kerja (checkout) dari server ini, melakukan perubahan, lalu menyimpan (commit) perubahan itu kembali ke server pusat. Server ini jadi satu-satunya penyimpanan untuk versi.
+        *   Kelebihan
+            -   Kolaborasi lebih mudah karena semua orang mengacu ke tempat yang sama.
+            -   Admin lebih gampang mengontrol proyek dan akses.
+        *   Kekurangan
+            -   Kalau server pusat bermasalah (mati/rusak), semua pengembang tidak bisa kerja atau menyimpan versi. Riwayat bisa hilang total jika tidak ada backup.
+            -   Butuh koneksi internet untuk hampir semua operasi (misalnya commit, update).
+        *   Contoh 
+            -   SVN (Subversion), CVS.
+    (c) DVCS (Sistem Kontrol Versi Terdistribusi)
+        -   Setiap pengembang punya salinan lengkap seluruh riwayat proyek di komputernya masing-masing, bukan hanya file kerja terbaru. Mereka bisa melakukan banyak hal (seperti commit, branching, merging) di komputernya sendiri (lokal). Perubahan ini kemudian disinkronkan dengan repositori lain (biasanya disebut remote atau origin).
+        *   Kelebihan
+            -   Aman dari Satu Titik Kegagalan: Kalau server utama mati, setiap pengembang masih punya salinan lengkap, jadi data aman.
+            -   Cepat: Banyak operasi (commit, branch) dilakukan lokal, jadi tidak butuh internet terus dan lebih cepat.
+            -   Kolaborasi Fleksibel: Lebih banyak cara untuk bekerja sama karena semua punya repositori penuh.
+            -   Branching & Merging Unggul: Proses membuat cabang (branch) dan menggabungkan (merge) kode lebih mudah dan kuat.
+        *   Kekurangan
+            -   Mungkin agak lebih susah di awal karena ada konsep lokal vs. remote, push, pull.
+        *   Contoh
+            - Git, Mercurial.
+
+
+    
