@@ -1,0 +1,44 @@
+Nama    : Idhan Haidar Kurniawan
+NIM     : 231060500054
+
+
+1.Sebutkan kelebihan metode Agile dibandingkan dengan metode pengembangan perangkat lunak lainnya.
+
+    jawab : 
+
+    1. Responsif terhadap perubahan: Agile memungkinkan perubahan kebutuhan di tengah proses pengembangan.
+    2. Kolaborasi tim yang kuat: Agile menekankan kerja sama antara tim pengembang dan pemilik produk.
+    3. Iterasi cepat dan hasil bertahap: Produk dikembangkan secara bertahap (sprint), memungkinkan umpan balik cepat.
+    4. Fokus pada kepuasan pengguna: Setiap iterasi menghasilkan produk yang bisa langsung diuji pengguna.
+    5. Risiko lebih rendah: Karena pengembangan dilakukan secara bertahap, kesalahan bisa dideteksi lebih awal.
+
+2. Apa tugas seorang scrum master dalam framework scrum?
+
+    jawab :
+
+    1.Fasilitator proses Scrum: Memastikan proses Scrum berjalan sesuai prinsipnya.
+    2.Menghilangkan hambatan (impediments): Membantu tim menyelesaikan kendala dalam pengembangan.
+    3.Mendidik dan melatih tim: Memberi pemahaman tentang Scrum kepada tim dan pemangku kepentingan.
+    4.Menjaga tim tetap fokus dan produktif: Melindungi tim dari gangguan eksternal.
+
+3. Apa yang dimaksud dengan WIP (Work In Progress) di dalam Kanban?
+
+    jawab : 
+
+    1.WIP (Work In Progress) adalah jumlah pekerjaan yang sedang dikerjakan oleh tim dalam satu waktu.
+    2.Tujuannya adalah untuk menghindari multitasking berlebihan dan memastikan pekerjaan diselesaikan dengan efisien sebelum mengambil pekerjaan baru.
+    3.Batasan WIP membantu meningkatkan fokus, kualitas, dan alur kerja (flow).
+
+4. Sebutkan dan jelaskan jenis version control system yang digunakan dalam pengembangan perangkat lunak.
+
+    jawab : 
+
+    Terdapat dua jenis utama Version Control System (VCS):
+
+    a. Centralized VCS (CVCS)
+        Semua file versi disimpan di satu server pusat.
+        Contoh: Subversion (SVN), Perforce.
+        
+    b. Distributed VCS (DVCS)
+        Setiap pengembang memiliki salinan lengkap dari seluruh repositori.
+        Contoh: Git, Mercurial.
