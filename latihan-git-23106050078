@@ -1,0 +1,25 @@
+Nama: Fatimah Khoirun Nisa
+NIM : 23106050078
+
+1. Sebutkan kelebihan metode Agile dibandingkan dengan metode pengembangan perangkat lunak lainnya.
+=> Fleksibel dan Adaptif: Agile sangat mendukung perubahan kebutuhan selama proyek berlangsung, sehingga tim dapat dengan cepat menyesuaikan diri jika ada perubahan permintaan dari klien atau pasar.
+=> Iteratif dan inkremental: Produk dikembangkan secara bertahap melalui sprint atau iterasi, memungkinkan pengujian dan evaluasi dini.
+Kolaborasi tinggi dengan pelanggan: Pelanggan atau user terlibat langsung dalam setiap tahap, sehingga hasil lebih sesuai kebutuhan.
+=> Feedback cepat: Setiap iterasi menghasilkan produk kerja yang bisa langsung diuji dan diberi masukan.
+Kualitas lebih baik: Pengujian dilakukan secara berkala selama pengembangan, bukan hanya di akhir.
+
+2. Apa tugas seorang scrum master dalam framework scrum
+=> Mendidik dan membimbing tim Scrum dalam praktik dan prinsip Scrum.
+=> Menghilangkan hambatan (impediments) yang menghambat kerja tim.
+=> Menjaga proses Scrum agar dijalankan dengan disiplin dan sesuai kerangka kerja.
+=> Meningkatkan Kolaborasi: Memastikan komunikasi yang efektif baik di dalam tim maupun antara tim dengan pihak eksternal.
+=> Membantu Product Owner dalam pengelolaan backlog.
+=> Memfasilitasi event Scrum seperti sprint planning, daily scrum, sprint review, dan sprint retrospective.
+
+3. Apa yang dimaksud dengan WIP (Work In Progress) di dalam Kanban
+=> WIP (Work in Progress) dalam Kanban adalah jumlah item atau pekerjaan yang sedang dikerjakan oleh tim pada suatu waktu tertentu dan belum selesai. Dalam praktik Kanban, WIP harus dibatasi agar tim tidak mengambil terlalu banyak pekerjaan sekaligus, sehingga alur kerja tetap efisien dan hambatan dapat diidentifikasi serta diselesaikan dengan cepat. Batasan WIP membantu menjaga fokus tim dan memastikan kapasitas kerja tidak terlampaui.
+
+4. Sebutkan dan jelaskan jenis version control system yang digunakan dalam pengembangan perangkat lunak.
+=> Local Version Control System (LCS): Sistem yang menyimpan perubahan file secara lokal di komputer pengembang. Contohnya adalah RCS. Setiap perubahan disimpan sebagai patch yang dapat digabungkan untuk membentuk versi file tertentu.
+=> Centralized Version Control System (CVCS): Sistem yang memiliki satu server pusat tempat semua versi file disimpan dan diakses oleh banyak pengguna. Contoh: CVS, SVN, Perforce. Kolaborasi dilakukan dengan mengakses repository pusat, sehingga memudahkan pengelolaan dan kontrol.
+=> Distributed Version Control System (DVCS): Setiap pengguna memiliki salinan lengkap repository di komputernya. Perubahan dapat dilakukan secara lokal dan baru disinkronkan ke repository pusat jika sudah siap. Contoh: Git, Mercurial, Bazaar. DVCS mendukung kerja kolaboratif yang lebih fleksibel dan aman, karena setiap pengguna memiliki backup penuh.
