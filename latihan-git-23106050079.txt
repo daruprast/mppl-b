@@ -1,0 +1,31 @@
+Nama : Azzahra Nur Addin Afeeanti
+NIM : 23106050079
+
+1. Kelebihan Metode Agile Dibandingkan Metode Pengembangan Lainnya
+    •	Adaptabilitas tinggi terhadap perubahan kebutuhan proyek melalui pengembangan iteratif.
+    •	Kolaborasi intensif antara tim, pelanggan, dan pemangku kepentingan.
+    •	Pengiriman bertahap yang memastikan produk fungsional tersedia lebih cepat.
+    •	Fokus pada kualitas melalui pengujian berkelanjutan dan perbaikan inkremental.
+    •	Transparansi proses dengan pelaporan progres secara real-time kepada pemangku kepentingan.
+2. Tugas Scrum Master dalam Framework Scrum
+    •	Memfasilitasi proses Scrum (daily stand-up, sprint planning, review, dan retrospektif).
+    •	Menghilangkan hambatan yang menghalangi produktivitas tim.
+    •	Memastikan prinsip Scrum dijalankan sesuai panduan resmi.
+    •	Membimbing tim dalam memahami nilai-nilai Scrum (komitmen, keberanian, fokus, keterbukaan, dan respek).
+    •	Melindungi tim dari gangguan eksternal yang mengganggu fokus kerja.
+3. Definisi WIP (Work In Progress) dalam Kanban
+    •	Batasan jumlah tugas yang boleh dikerjakan secara bersamaan dalam satu tahap alur kerja.
+    •	Alat kontrol visual untuk mencegah multitasking berlebihan.
+    •	Indikator bottleneck yang membantu mengidentifikasi hambatan proses.
+    •	Peningkatan fokus tim dengan menyelesaikan tugas sebelum mengambil tugas baru.
+4. Jenis Version Control System dalam Pengembangan Perangkat Lunak
+    •	Centralized VCS (Contoh: SVN):
+        a.	Menggunakan server pusat untuk menyimpan riwayat kode.
+        b.	Memudahkan kontrol akses tetapi rentan single point of failure.
+    •	Distributed VCS (Contoh: Git):
+        a.	Setiap developer memiliki salinan lengkap repository.
+        b.	Mendukung kerja offline dan branching fleksibel.
+    •	Cloud-Based VCS (Contoh: GitHub):
+        a.	Mengombinasikan DVCS dengan fitur kolaborasi cloud.
+        b.	Menyediakan integrasi CI/CD dan manajemen issue terpusat.
+
