@@ -1,0 +1,19 @@
+Nama	: Khanan Salman Alfarisi
+NIM	: 23106050006
+
+1. Kelebihan metode Agile:
+- Fleksibel terhadap perubahan
+- Iteratif dan cepat deliver produk
+- Fokus pada kolaborasi tim & klien
+
+2. Tugas scrum master:
+- Memastikan tim menjalankan Scrum dengan benar
+- Menghapus hambatan yang mengganggu tim
+- Memfasilitasi meeting dan proses agile
+
+3. Pengertian WIP (Work In Progress) dalam Kanban:
+- Jumlah maksimal pekerjaan yang sedang dikerjakan dalam satu waktu.
+- Tujuannya supaya fokus & kerjaan nggak numpuk.
+
+4. Jenis version control system:
+- Git : sistem VCS terdistribusi yang banyak dipakai. Bisa melacak perubahan kode, buat branch, kolaborasi via GitHub/GitLab.
