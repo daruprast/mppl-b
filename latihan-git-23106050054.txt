@@ -37,8 +37,8 @@ NIM     : 231060500054
 
     a. Centralized VCS (CVCS)
         Semua file versi disimpan di satu server pusat.
-        Contoh: Subversion (SVN), Perforce.
+        Contohnya: Subversion (SVN), Perforce.
         
     b. Distributed VCS (DVCS)
         Setiap pengembang memiliki salinan lengkap dari seluruh repositori.
-        Contoh: Git, Mercurial.
+        Contohnya: Git, Mercurial.
