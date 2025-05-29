@@ -1,0 +1,27 @@
+Nama: Athalia Evelina Maharani
+NIM: 23106050085
+
+1. Kelebihan Metode Agile
+    -Fleksibel terhadap perubahan.
+    -Cepat dapat feedback dari user.
+    -Kolaborasi tim lebih baik.
+    -Kualitas produk lebih terjaga karena diuji terus-menerus.
+    -Pengerjaan bertahap dan bisa dipantau setiap sprint.
+
+2. Tugas Scrum Master
+    -Menjaga proses Scrum tetap jalan.
+    -Menghilangkan hambatan tim.
+    -Menghubungkan tim, Product Owner, dan stakeholder.
+    -Melatih tim soal Scrum.
+    -Memfasilitasi meeting seperti sprint planning dan daily standup.
+
+3. WIP (Work In Progress) di Kanban
+    -Jumlah tugas yang sedang dikerjakan.
+    -WIP dibatasi supaya tim fokus dan kerja lebih cepat.
+    -Membantu menjaga alur kerja tetap lancar.
+
+4. Jenis Version Control System (VCS)
+    -CVCS (Centralized): Kode di satu server pusat. Contoh: SVN.
+    -DVCS (Distributed): Tiap orang punya salinan penuh. Contoh: Git.
+    -Git paling populer karena fleksibel, bisa offline, cocok buat kolaborasi.
+
