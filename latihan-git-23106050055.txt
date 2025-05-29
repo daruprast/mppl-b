@@ -1,0 +1,22 @@
+Nama = Cleonando Aprilian
+NIM  = 23106050055
+
+1. Kelebihan Metode Agile dibandingkan metode pengembangan perangkat lunak lainnya
+    -Lebih Fleksibel terhadap perubahan bahkan di tahap akhir pengembangan
+    -Kolaborasi dan komunikasi yang insentif antara pengembang dan stakeholder
+    -kualitas lebih terjaga dengan adanya proses evaluasi dan testing di setiap iterasi
+    -pelanggan lebih puas karena dapat melihat perkembangan proyek secara rutin dan memberikan masukan langsung
+
+2. Tugas Scrum master
+    -Memfalisitasi proses scrum yang memastikan tim scrum diberikan ligkungan yang kondusif untuk menyelesaikan proyek dengan sukses
+    -Mengedukasi praktik scrum kepada semua orang yang terlibat di proyek
+    -Menghilangkan hambatan tim
+    -Memastikan proses scrum diikuti dengan benar
+    
+3. WIP(Work In Progres) dalam Kanban
+    - WIP adalah jumlah perkerjaan atau tugas yang sedang dikerjakan pada waktu tertentu
+    - limit WIP digunakan untuk mengontrol alur kerja agar tim tidak mengerjakan terlalu banyak tugas sekaligus
+
+4. Jenis Version Control System dalam pengembangan perangkat lunak ada 2 yaitu
+    - Centralized Version Control System (CVCS) contoh Subversion(SVN), CVS 
+    - Distributed Version Control System (DVCS) contoh Git, Mercurial
