@@ -1,0 +1,21 @@
+Nama: Muhammad Azzam Rabbani
+NIM : 23106050026
+
+1, -Agile lebih fleksibel terhadap perubahan kebutuhan selama proses pengembangan.
+   -Iteratif dan inkremental, memungkinkan hasil yang bisa diuji lebih awal.
+   -Komunikasi antara tim dan stakeholder lebih intensif dan transparan.
+   -Memungkinkan feedback lebih cepat dan perbaikan berkelanjutan.
+   -Meningkatkan kepuasan pelanggan karena keterlibatan mereka dalam setiap tahap pengembangan.
+
+2. -Memfasilitasi proses Scrum dan memastikan tim mengikuti praktik Scrum.
+   -Menghilangkan hambatan (impediments) yang mengganggu produktivitas tim.
+   -Menjaga komunikasi antara Product Owner dan tim pengembang.
+   -Membimbing tim untuk terus meningkatkan proses kerja (continuous improvement).
+   -Menjadi pelindung tim dari gangguan luar selama sprint berlangsung.
+
+3. -WIP adalah jumlah pekerjaan yang sedang dikerjakan pada suatu waktu.
+   -Dalam Kanban, WIP limit digunakan untuk menghindari multitasking berlebihan agar tim fokus menyelesaikan pekerjaan yang ada sebelum memulai yang baru.
+   -Tujuannya adalah meningkatkan efisiensi dan alur kerja (workflow).
+
+4. -Centralized VCS (CVCS): Sistem version control terpusat, seperti Subversion (SVN). Semua versi disimpan di satu server pusat. Jika server mati, versi tidak bisa diakses.
+   -Distributed VCS (DVCS): Sistem version control terdistribusi, seperti Git. Setiap pengembang memiliki salinan penuh dari repositori. Lebih aman dan fleksibel karena dapat bekerja secara offline dan mudah untuk kolaborasi.
