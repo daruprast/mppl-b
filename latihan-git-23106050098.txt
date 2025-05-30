@@ -1,0 +1,60 @@
+NAMA : SAHRUL AMAR
+NIM  : 23106050098
+
+
+1. Kelebihan Metode Agile Dibandingkan Metode Pengembangan Perangkat Lunak Lainnya
+
+Fleksibilitas Tinggi Agile memungkinkan perubahan kebutuhan atau fitur di tengah proses pengembangan.
+
+Iteratif dan Inkremental Proyek dibagi menjadi sprint (iterasi pendek) yang menghasilkan bagian produk yang bisa digunakan.
+
+Kolaborasi yang Intensif Komunikasi aktif antara tim pengembang dan stakeholder.
+
+Peningkatan Kualitas Adanya review dan testing secara berkala meningkatkan kualitas produk akhir.
+
+Waktu Rilis Lebih Cepat Dengan pendekatan bertahap, produk atau fitur bisa dirilis lebih awal.
+
+Kepuasan Pelanggan Tinggi Pelanggan terlibat selama proses dan bisa memberikan feedback langsung.
+
+ 2. Tugas Seorang Scrum Master dalam Framework Scrum
+
+Memfasilitasi Proses Scrum Memastikan semua event Scrum (Daily Standup, Sprint Planning, Sprint Review, Retrospective) berjalan sesuai aturan.
+
+Melindungi Tim Menghilangkan hambatan yang mengganggu kerja tim (impediment removal).
+
+Melatih dan Membimbing Membantu tim dan organisasi memahami serta menerapkan prinsip-prinsip Scrum.
+
+Menjadi Penghubung Menghubungkan tim Scrum dengan pihak luar tanpa mengganggu proses kerja tim.
+
+3. Apa yang Dimaksud dengan WIP (Work In Progress) dalam Kanban:
+WIP (Work In Progress) adalah jumlah pekerjaan (task/tugas) yang sedang dikerjakan dalam suatu waktu tertentu.
+
+Dalam Kanban, batas WIP (WIP limits) digunakan untuk:
+
+Menghindari multitasking berlebihan.
+
+Meningkatkan fokus dan efisiensi.
+
+Mengidentifikasi bottleneck dalam proses kerja.
+
+4. Jenis Version Control System (VCS) dalam Pengembangan Perangkat Lunak
+
+a. Centralized Version Control System (CVCS)
+Contoh: Subversion (SVN), CVS
+
+Semua versi file disimpan di satu server pusat.
+
+Kelemahan: Jika server pusat gagal, seluruh riwayat versi bisa hilang.
+
+b. Distributed Version Control System (DVCS)
+Contoh: Git, Mercurial
+
+Setiap pengembang memiliki salinan lengkap dari repositori
+
+Kelebihan
+
+Bisa bekerja offline.
+
+Backup otomatis pada setiap klien.
+
+Lebih cepat dalam commit dan merge.
