@@ -1,0 +1,29 @@
+Nama: Aisyah Ayudia Inara
+NIm: 23106050020
+
+1. Kelebihan metode Agile
+- Fleksibilitas terhadap perubahan
+- Pengiriman produk lebih cepat dan berkala
+- Kolaborasi yang lebih baik
+- Peningkatan kualitas perangkat lunak
+- Fokus pada kebutuhan pengguna
+- Transparansi dan visibilitas proyek
+- Motivasi tim lebih tinggi
+
+2. Tugas scrum master dalam framework scrum
+- Memfasilitasi Proses Scrum
+- Menghilangkan Hambatan (Impediments)
+- Mendampingi dan Membimbing Tim Scrum
+- Mendukung Product Owner
+
+3.  WIP (Work In Progress) di dalam Kanban
+ tugas atau pekerjaan yang sedang dikerjakan 
+ pada suatu waktu tertentu, khususnya yang berada
+ di tahap proses (bukan backlog atau selesai).
+
+ 4. jenis version control system yang digunakan dalam pengembangan perangkat lunak
+ - Local Version Control System (VCS Lokal)
+ - Centralized Version Control System (CVCS)
+ - Distributed Version Control System (DVCS)
+ 
+
