@@ -1,0 +1,15 @@
+Nama: Agung Setia  
+NIM: 23106050091
+
+1. Sebutkan kelebihan metode Agile dibandingkan dengan metode pengembangan perangkat lunak lainnya.  
+Metode Agile lebih fleksibel terhadap perubahan kebutuhan, mendorong komunikasi yang lebih intens antara tim dan klien, serta memungkinkan evaluasi berkala pada setiap iterasi untuk menjaga kualitas produk.
+
+2. Apa tugas seorang scrum master dalam framework scrum  
+Scrum Master bertugas memfasilitasi penerapan Scrum, menghilangkan hambatan yang mengganggu tim, serta menjadi penghubung antara tim Scrum dan pihak eksternal.
+
+3. Apa yang dimaksud dengan WIP (Work In Progress) di dalam Kanban  
+WIP adalah jumlah pekerjaan yang sedang berlangsung. Dengan membatasi WIP, tim dapat fokus pada penyelesaian tugas satu per satu agar lebih efisien.
+
+4. Sebutkan dan jelaskan jenis version control system yang digunakan dalam pengembangan perangkat lunak.  
+- Centralized VCS (CVCS): Semua kode versi disimpan di satu server pusat, misalnya SVN.  
+- Distributed VCS (DVCS): Setiap pengembang punya salinan penuh dari repositori, seperti Git. Lebih fleksibel dan aman.
