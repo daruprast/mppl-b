@@ -1,0 +1,17 @@
+Nama    : Dinar Alvi Karima
+NIM     : 23106050071
+
+1. Bebebrapa kelebihan metode agile:
+   - Fleksibilitas dan adaptasi
+   - Hasil software berkualitas dengan pengujian berkelanjutan
+   - Meningkatkan kolaborasi dan komunikasi tim
+   - Lebih cepat dalam merilis produk
+   -Meningkatkan kepuasan pelanggan
+2. Scrum master berperan sebagai fasilitator yang memastikan bahwa scrum tim diberikan lingkungan yang kondusif untuk menyelesaikan proyek dengan sukses. 
+   Scrum master memandu, memfasilitas dan mengajarkan praktik-praktik scrum kepada semua orang yang terlibat dalam proyek;menghilangkan hambatan bagi tim; dan memastikan bahwa proses scrum diikuti.
+3. Limit WIP dalam kanban adalah menetapkan dengan batas pekerjaan, tugas, dan jumlah unit produk yang masih masih dalam proses (work in-progress). 
+   Pekerjaan atau tugas yang telah disusun dalam suatu alur kerja harus diselesaikan sesuai dengan jangka waktu yang sudah ditentukan. Sehingga, pekerjaan yang tertunda atau masih dalam proses pengerjaan bisa dikendalikan sebaik dan seminim mungkin. 
+   Sedangkan, untuk produk yang sedang dalam proses produksi, adanya pembatasan WIP ini, persediaan (inventory) yang diperlukan akan semakin minim.
+4. - Local Version Control System (LVCS): sistem versi paling sederhana, di mana semua versi file disimpan di komputer lokal. Biasanya menggunakan tool sederhana seperti sistem backup manual atau software seperti RCS (Revision Control System).
+   - Centralized Version Control System (CVCS) : Semua file dan riwayat versi disimpan di satu server pusat. Pengembang harus terhubung ke server untuk mengambil atau mengubah data. Contoh: Subversion (SVN) atau Perforce.
+   - Distributed Version Control System (DVCS) : Setiap pengembang memiliki salinan lengkap dari seluruh repositori (termasuk riwayat versi) di komputer mereka. Contoh paling populer: Git, Mercurial, dan Bazaar.
