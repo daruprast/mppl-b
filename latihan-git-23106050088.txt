@@ -1,0 +1,27 @@
+Nama: Nur Hairun Nisa Panjaitan
+NIm : 23106050088
+
+1. Sebutkan kelebihan metode Agile dibandingkan dengan metode pengembangan perangkat lunak lainnya!
+Jawaban:
+- Lebih fleksibel terhadap perubahan.
+- Fokus pada kolaborasi dengan pengguna.
+- Pengembangan bertahap dan berkelanjutan.
+- Kualitas produk meningkat karena pengujian dilakukan terus-menerus.
+
+2. Apa tugas seorang scrum master dalam framework scrum?
+Jawaban:
+- Membantu tim mengikuti praktik Scrum.
+- Menghilangkan hambatan yang mengganggu proses tim.
+- Fasilitator komunikasi antara Product Owner dan tim.
+- Menjaga agar proses Scrum dijalankan dengan benar.
+
+3. Apa yang dimaksud dengan WIP (Work In Progress) di dalam Kanban?
+Jawaban:
+- WIP adalah pekerjaan yang sedang dikerjakan, tetapi belum selesai.
+- Membatasi jumlah WIP membantu tim tetap fokus dan meningkatkan efisiensi.
+
+4. Sebutkan dan jelaskan jenis version control system yang digunakan dalam pengembangan perangkat lunak!
+Jawaban:
+- **Git**: Version control system terdistribusi yang paling populer.
+- **Subversion (SVN)**: VCS terpusat yang masih digunakan di beberapa perusahaan.
+- **Mercurial**: Alternatif lain dari Git dengan konsep serupa.
