@@ -1,0 +1,55 @@
+Nama = Salman Alfauzi Asngari
+NIM = 23106050013
+
+1. Metode Agile memiliki sejumlah kelebihan dibandingkan metode pengembangan perangkat lunak tradisional seperti Waterfall. Berikut adalah beberapa kelebihan utama Agile:
+    - Fleksibilitas dan Adaptasi yang Tinggi
+    - Fokus pada kebutuhan pengguna
+    - Pengiriman produk yang lebih cepat
+    - Kolaborasi tim yang lebih baik
+    - Peningkatan kualitas produk
+    - Risiko kegagalan proyek lebih rendah
+    - Motivasi tim yang lebih Tinggi
+    - Pengukuran performa yang lebih baik
+
+2. Seorang Scrum Master memiliki peran penting dalam framework Scrum. Tugas utamanya adalah memastikan bahwa prinsip dan praktik Scrum diikuti serta membantu tim untuk bekerja secara efektif. Berikut adalah tugas utama seorang Scrum Master:
+    - Pelayan bagi Tim (Servant Leader)
+    - Menjaga kepatuhan pada framework Scrum
+    - Fasilitator Proses Scrum
+    - Membantu product owner
+    - Melindungi tim dari gangguan eksternal
+    - Mendorong perbaikan berkelanjutan
+    - Melatih dan Mendukung tim
+    - Mengelola hubungan dengan stakeholder
+
+3. Dalam Kanban, WIP (Work In Progress) merujuk pada jumlah tugas atau item pekerjaan yang sedang dikerjakan oleh tim pada saat tertentu. Ini mencakup pekerjaan yang berada di tahap apa pun di dalam alur kerja, dari "In Progress" hingga "Testing," tetapi belum selesai sepenuhnya.
+    a. Konsep Dasar WIP
+       - WIP Limit adalah batas maksimum jumlah tugas yang dapat berada di setiap kolom atau tahap alur kerja pada papan Kanban.
+       - Tujuan dari WIP Limit adalah untuk mencegah overload tim dan memastikan alur kerja tetap efisien.
+    b. Mengapa WIP pending dalam Kanban?
+       - Meningkatkan fokus tim 
+       - Menghindari Bottleneck
+       - Mempercepat delivery
+       - Mengurangi risiko kesalahan
+       - Memastikan alur kerja yang stabil
+
+4. Berikut adalah jenis-jenis Version Control System beserta penjelasannya:
+    a. Local Version Control System (VCS Lokal)
+       Sistem ini menyimpan revisi file secara lokal di komputer pengguna. Perubahan dicatat dalam basis data di direktori yang sama atau terpisah.
+       Kelebihan    : Sederhana dan mudah digunakan
+       Kekurangan   : Tidak mendukung kolaborasi tim karena semua data disimpan secara lokal. Risiko kehilangan data lebih tinggi jika perangkat rusak.
+       Contoh       : RCS (Revision Control System)
+    b. Centralized Version Control System (VCS Terpusat)
+       Menggunakan satu server pusat untuk menyimpan semua versi file. Pengembang mengambil (checkout) dan mengembalikan (commit) perubahan ke server ini.
+       Kelebihan    : - Mudah dikontrol dan diaudit karena semua berada di satu tempat
+                      - Cocok untuk tim yang bekerja di jaringan lokal.
+       Kekurangan   : - Bila server pusat down, maka seluruh tim tidak bisa mengakses versi terbaru atau melakukan commit.
+                      - Risiko kehilangan data jika server pusat rusak dan tidak ada backup.
+       Contoh       : CVS, Subversion (SVN), Perforce
+    c. Distributed Version Control System (VCS Terdistribusi)
+       Setiap pengembang memiliki salinan penuh dari seluruh repositori, termasuk riwayat revisi. Perubahan dapat dilakukan secara lokal dan disinkronkan ke repositori utama atau repositori tim lainnya.
+       Kelebihan    : - Lebih aman karena salinan lengkap ada di setiap komputer pengembang.
+                      - Bisa bekerja secara offline.
+                      - Mendukung branching dan merging secara efisien
+       Kekurangan   : - Lebih kompleks dibanding sistem lokal atau Terpusat
+                      - Butuh ruang lebih besar karena salinan repositori penuh disimpan di setiap mesin
+       Contoh       : Git, Mercurial, Bazaar
